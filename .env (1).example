@@ -1,0 +1,18 @@
+# FAQAT SHU MAJBURIY. Qolgan hammasi (kanal, API kalitlar, sozlamalar) botning o'zidan kiritiladi.
+BOT_TOKEN=BotFather_bergan_yangi_token
+
+# Ixtiyoriy: admin Telegram ID (bo'sh qolsa, birinchi /start bergan odam admin bo'ladi)
+ADMIN_IDS=
+
+# Ixtiyoriy: Turso (bulutdagi baza). Ikkalasi ham to'ldirilsa baza Turso'da saqlanadi va redeploy'da yo'qolmaydi.
+TURSO_URL=
+TURSO_TOKEN=
+
+# Ixtiyoriy: Turso bo'lmasa, baza joyi (doimiy disk bo'lsa o'sha yo'lni bering)
+DB_PATH=data/xabar_hub.db
+
+# Ixtiyoriy: kalitlar bazaga birinchi marta shu yerdan yuklanadi
+GEMINI_API_KEYS=
+GROQ_API_KEYS=
+OPENROUTER_API_KEYS=
+CHANNEL_ID=
